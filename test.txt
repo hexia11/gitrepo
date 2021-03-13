@@ -1,1 +1,1 @@
-A new file named test.txt.
+Now in git repo.
